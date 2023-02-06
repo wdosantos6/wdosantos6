@@ -1,5 +1,4 @@
 ### Olá pessoas👋🏾
-
 -🐨 Atualmente estudando
 
 -🦔 Pretendo fazer ADS ou ciências da computação
