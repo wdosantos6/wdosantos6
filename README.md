@@ -6,6 +6,7 @@
 -🐰 Pretendo ser arquiteto de software ou desenvolvedor de front-end
 
 -🦝 Aprendendo principalmente html,css e python
+ <img align="right" alt="Gudetama" height="180" style="border-radius:100px;" src="https://i.pinimg.com/originals/e9/3e/98/e93e98259a7e4c655546242fe9b054db.gif">
 
 ##
 
