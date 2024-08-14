@@ -1,9 +1,5 @@
 ### Olá pessoas👋🏾
--🐨 Atualmente estudando
-
--🦔 Pretendo fazer ADS ou ciências da computação
-
--🐰 Pretendo ser arquiteto de software ou desenvolvedor de front-end
+-🐨 ADS Faeterj-RJ 1 período
 
 -🦝 Aprendendo principalmente html,css e python
  <img align="right" alt="Gudetama" height="180" style="border-radius:100px;" src="https://www.icegif.com/wp-content/uploads/2022/05/icegif-1036.gif">
